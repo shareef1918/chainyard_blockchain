@@ -10,7 +10,7 @@ class Routes extends React.Component {
   render() {
     return (
       <Switch>
-        <Route exact path='/components' component={ComponentsNavPage} />
+        <Route exact path='/' component={ComponentsNavPage} />
         <Route exact path='/components/:hash' component={AdvancedNavPage} />
         <Route
           render={function() {

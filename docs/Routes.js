@@ -5,7 +5,6 @@ import AdvancedNavPage from './pages/AdvancedNavPage';
 import ComponentsNavPage from './pages/ComponentsNavPage';
 
 
-
 class Routes extends React.Component {
   render() {
     return (

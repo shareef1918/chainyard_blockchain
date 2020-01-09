@@ -59,7 +59,7 @@ const AdvancedNavPage = props => {
                   </div>
                 ) : (
                   <Fragment>
-                    <MDBNavLink to={`/components`} link><MDBBtn color="cyan">Back</MDBBtn></MDBNavLink>
+                    <MDBNavLink to={`/`} link><MDBBtn color="cyan">Back</MDBBtn></MDBNavLink>
                     <MDBTable>
                       <MDBTableHead color='primary-color' textWhite>
                         <tr>

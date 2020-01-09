@@ -1,5 +1,6 @@
 # chainyard_blockchain
-
+## Install packages
+### run `npm install`after cloning of repo
 ## Available Scripts
 
 In the project directory, you can run:
